@@ -16,8 +16,8 @@
         Pushwoosh
     </author>
 
-    <!-- current version of PhoneGap - ->
-    <preference name="phonegap-version" value="3.1.0" />
+    <!-- current version of PhoneGap -->
+    <preference name="phonegap-version" value="3.5.0" />
 
     <!--
         Enable individual API permissions here.
